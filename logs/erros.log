@@ -1,0 +1,13 @@
+[2026-04-28T18:32:50.313Z] [INFO] Conexão com MongoDB estabelecida.
+[2026-04-28T18:32:50.394Z] [INFO] Usuário inserido: mariasilva
+[2026-04-28T18:32:50.412Z] [INFO] Usuário inserido: joaocosta
+[2026-04-28T18:32:50.418Z] [ERRO] Usuario.inserir: Campo obrigatório ausente: username.
+[2026-04-28T18:32:50.421Z] [INFO] Post inserido: id=69f0fd522b5a265f33823235
+[2026-04-28T18:32:50.423Z] [INFO] Post inserido: id=69f0fd522b5a265f33823236
+[2026-04-28T18:32:50.435Z] [ERRO] Post.inserir: Campo obrigatório ausente: conteudo.
+[2026-04-28T18:32:50.437Z] [INFO] Comentário inserido: id=69f0fd522b5a265f33823237 no post=69f0fd522b5a265f33823235
+[2026-04-28T18:32:50.439Z] [ERRO] Comentario.inserir: Campo obrigatório ausente: post.
+[2026-04-28T18:32:50.441Z] [INFO] Comentário deletado: id=69f0fd522b5a265f33823237
+[2026-04-28T18:32:50.442Z] [INFO] Post deletado: id=69f0fd522b5a265f33823236
+[2026-04-28T18:32:50.443Z] [INFO] Usuário deletado: joaocosta
+[2026-04-28T18:32:50.445Z] [INFO] Conexão encerrada.
